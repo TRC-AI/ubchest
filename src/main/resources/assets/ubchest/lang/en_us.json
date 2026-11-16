@@ -1,1 +1,5 @@
-{}
+{
+  "ubchest.setting.ignore_block_above": "Open chests through solid blocks",
+  "ubchest.setting.ignore_sitting_cats": "Open chests under sitting cats",
+  "ubchest.setting.apply_to_copper_golems": "Apply to copper golems"
+}

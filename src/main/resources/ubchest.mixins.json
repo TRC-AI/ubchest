@@ -2,7 +2,11 @@
 	"required": true,
 	"package": "trc.ubchest.mixin",
 	"compatibilityLevel": "JAVA_25",
-	"mixins": [],
+	"mixins": [
+		"ChestBlockMixin",
+		"TransportItemsBetweenContainersMixin",
+		"TransportItemTargetMixin"
+	],
 	"injectors": {
 		"defaultRequire": 1
 	},

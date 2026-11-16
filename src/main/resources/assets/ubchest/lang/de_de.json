@@ -1,0 +1,5 @@
+{
+  "ubchest.setting.ignore_block_above": "Truhen durch feste Blöcke öffnen",
+  "ubchest.setting.ignore_sitting_cats": "Truhen unter sitzenden Katzen öffnen",
+  "ubchest.setting.apply_to_copper_golems": "Auch für Kupfergolems"
+}

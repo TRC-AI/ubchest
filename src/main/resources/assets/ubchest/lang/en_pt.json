@@ -1,0 +1,5 @@
+{
+  "ubchest.setting.ignore_block_above": "Pry open chests 'neath solid blocks",
+  "ubchest.setting.ignore_sitting_cats": "Pry open chests 'neath lazin' ship cats",
+  "ubchest.setting.apply_to_copper_golems": "Let copper golems plunder too"
+}

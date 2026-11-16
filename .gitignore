@@ -1,0 +1,12 @@
+/*
+!/gradle/
+!/src/
+!/.gitignore
+!/build.gradle
+!/gradle.properties
+!/gradlew
+!/LICENSE
+!/README.md
+!/settings.gradle
+!/.gitattributes
+.DS_Store

@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "ubchest",
+	"version": "${version}",
+	"name": "Unblocked Chests",
+	"description": "Lets you open chests even when a solid block or a sitting cat is on top of them.",
+	"authors": [
+		"TRC-AI"
+	],
+	"contact": {
+		"github": "https://github.com/TRC-AI/"
+	},
+	"license": "MIT",
+	"icon": "assets/ubchest/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"trc_addon": [
+			"trc.ubchest.TRCAddon"
+		]
+	},
+	"mixins": [
+		"ubchest.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": ["26.1", "26.1.1", "26.1.2"],
+		"java": ">=25",
+		"fabric-api": ">=0.144.0",
+		"trc-core": ">=1.2"
+	}
+}
